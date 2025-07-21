@@ -4,7 +4,7 @@ Este projeto simula, em 3D, um **Cubo Mágico 3x3x3** com suas cores tradicionai
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Visualização tridimensional interativa do cubo.
 - Botões para rotacionar **cada uma das faces**:
@@ -14,26 +14,20 @@ Este projeto simula, em 3D, um **Cubo Mágico 3x3x3** com suas cores tradicionai
 
 ---
 
-## 🛠️ Tecnologias utilizadas
-
-- **Python 3**
-- **VPython** (`vpython`)
-
----
-
-## 🧠 Próximos passos (em andamento ou planejados)
+## Próximos passos (em planejamento: me falta conhecimento ainda)
 
 - Implementar um **algoritmo de resolução automática**:
   - Método **layer-by-layer** (camada por camada)
   - Alternativas com **inteligência artificial** ou **busca heurística**
-- Melhorias na interface e controles do usuário
-- Exibição do histórico de movimentos
 
 ---
 
-## 🚀 Como executar
+## Como executar
 
-1. Certifique-se de ter Python 3 instalado.
-2. Instale a biblioteca `vpython`:
-   ```bash
+1. Instale a biblioteca `vpython`:
+   
    pip install vpython
+
+2. Execute o script main.py
+
+   python main.py
